@@ -1,0 +1,15 @@
+C:\Users\MusicMonkey\Desktop\Projects\FashionFace\bin\Release\netcoreapp2.0\FashionFace.deps.json
+C:\Users\MusicMonkey\Desktop\Projects\FashionFace\bin\Release\netcoreapp2.0\FashionFace.runtimeconfig.json
+C:\Users\MusicMonkey\Desktop\Projects\FashionFace\bin\Release\netcoreapp2.0\FashionFace.runtimeconfig.dev.json
+C:\Users\MusicMonkey\Desktop\Projects\FashionFace\bin\Release\netcoreapp2.0\FashionFace.dll
+C:\Users\MusicMonkey\Desktop\Projects\FashionFace\bin\Release\netcoreapp2.0\FashionFace.pdb
+C:\Users\MusicMonkey\Desktop\Projects\FashionFace\bin\Release\netcoreapp2.0\FaceRecognition.dll
+C:\Users\MusicMonkey\Desktop\Projects\FashionFace\bin\Release\netcoreapp2.0\FashionFace.ListenerService.dll
+C:\Users\MusicMonkey\Desktop\Projects\FashionFace\bin\Release\netcoreapp2.0\FaceRecognition.pdb
+C:\Users\MusicMonkey\Desktop\Projects\FashionFace\bin\Release\netcoreapp2.0\FashionFace.ListenerService.pdb
+C:\Users\MusicMonkey\Desktop\Projects\FashionFace\obj\Release\netcoreapp2.0\FashionFace.csprojResolveAssemblyReference.cache
+C:\Users\MusicMonkey\Desktop\Projects\FashionFace\obj\Release\netcoreapp2.0\FashionFace.csproj.CoreCompileInputs.cache
+C:\Users\MusicMonkey\Desktop\Projects\FashionFace\obj\Release\netcoreapp2.0\FashionFace.AssemblyInfoInputs.cache
+C:\Users\MusicMonkey\Desktop\Projects\FashionFace\obj\Release\netcoreapp2.0\FashionFace.AssemblyInfo.cs
+C:\Users\MusicMonkey\Desktop\Projects\FashionFace\obj\Release\netcoreapp2.0\FashionFace.dll
+C:\Users\MusicMonkey\Desktop\Projects\FashionFace\obj\Release\netcoreapp2.0\FashionFace.pdb

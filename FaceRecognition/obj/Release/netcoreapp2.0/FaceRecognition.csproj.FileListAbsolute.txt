@@ -1,0 +1,9 @@
+C:\Users\MusicMonkey\Desktop\Projects\FaceRecognition\bin\Release\netcoreapp2.0\FaceRecognition.deps.json
+C:\Users\MusicMonkey\Desktop\Projects\FaceRecognition\bin\Release\netcoreapp2.0\FaceRecognition.dll
+C:\Users\MusicMonkey\Desktop\Projects\FaceRecognition\bin\Release\netcoreapp2.0\FaceRecognition.pdb
+C:\Users\MusicMonkey\Desktop\Projects\FaceRecognition\obj\Release\netcoreapp2.0\FaceRecognition.csprojResolveAssemblyReference.cache
+C:\Users\MusicMonkey\Desktop\Projects\FaceRecognition\obj\Release\netcoreapp2.0\FaceRecognition.csproj.CoreCompileInputs.cache
+C:\Users\MusicMonkey\Desktop\Projects\FaceRecognition\obj\Release\netcoreapp2.0\FaceRecognition.AssemblyInfoInputs.cache
+C:\Users\MusicMonkey\Desktop\Projects\FaceRecognition\obj\Release\netcoreapp2.0\FaceRecognition.AssemblyInfo.cs
+C:\Users\MusicMonkey\Desktop\Projects\FaceRecognition\obj\Release\netcoreapp2.0\FaceRecognition.dll
+C:\Users\MusicMonkey\Desktop\Projects\FaceRecognition\obj\Release\netcoreapp2.0\FaceRecognition.pdb

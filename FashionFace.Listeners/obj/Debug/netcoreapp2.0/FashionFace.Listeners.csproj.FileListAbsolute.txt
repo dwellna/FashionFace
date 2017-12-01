@@ -1,0 +1,9 @@
+N:\Projects\FashionFace.Listeners\obj\Debug\netcoreapp2.0\FashionFace.Listeners.csprojResolveAssemblyReference.cache
+N:\Projects\FashionFace.Listeners\obj\Debug\netcoreapp2.0\FashionFace.Listeners.csproj.CoreCompileInputs.cache
+N:\Projects\FashionFace.Listeners\obj\Debug\netcoreapp2.0\FashionFace.Listeners.AssemblyInfoInputs.cache
+N:\Projects\FashionFace.Listeners\obj\Debug\netcoreapp2.0\FashionFace.Listeners.AssemblyInfo.cs
+N:\Projects\FashionFace.Listeners\bin\Debug\netcoreapp2.0\FashionFace.Listeners.deps.json
+N:\Projects\FashionFace.Listeners\bin\Debug\netcoreapp2.0\FashionFace.Listeners.dll
+N:\Projects\FashionFace.Listeners\bin\Debug\netcoreapp2.0\FashionFace.Listeners.pdb
+N:\Projects\FashionFace.Listeners\obj\Debug\netcoreapp2.0\FashionFace.Listeners.dll
+N:\Projects\FashionFace.Listeners\obj\Debug\netcoreapp2.0\FashionFace.Listeners.pdb

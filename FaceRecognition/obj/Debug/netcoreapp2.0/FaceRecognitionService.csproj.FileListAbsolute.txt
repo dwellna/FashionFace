@@ -1,0 +1,6 @@
+N:\Projects\FaceRecognitionService\bin\Debug\netcoreapp2.0\FaceRecognitionService.deps.json
+N:\Projects\FaceRecognitionService\bin\Debug\netcoreapp2.0\FaceRecognitionService.dll
+N:\Projects\FaceRecognitionService\obj\Debug\netcoreapp2.0\FaceRecognitionService.csprojResolveAssemblyReference.cache
+N:\Projects\FaceRecognitionService\obj\Debug\netcoreapp2.0\FaceRecognitionService.csproj.CoreCompileInputs.cache
+N:\Projects\FaceRecognitionService\obj\Debug\netcoreapp2.0\FaceRecognitionService.AssemblyInfoInputs.cache
+N:\Projects\FaceRecognitionService\obj\Debug\netcoreapp2.0\FaceRecognitionService.AssemblyInfo.cs

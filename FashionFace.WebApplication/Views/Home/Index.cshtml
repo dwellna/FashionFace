@@ -1,0 +1,54 @@
+﻿@model FashionFace.WebApplication.Models.TweetEvaluationModel
+@{
+    ViewData["Title"] = "FashionFace";
+}
+
+<div>
+  <br />
+  @using (Html.BeginForm("UpdateFilter", "Home", FormMethod.Post))
+  {
+    @Html.LabelFor(m => m.CurrentFilter)
+    <br/>
+    @Html.TextBoxFor(m => m.CurrentFilter)
+    <input type="submit" value="Update" />
+  }
+</div>
+  <br/>
+  <br/>
+<div id="tweetstatistics">
+  <p>
+  <p>Tweets per Hour: @Model.TweetRatePerHour</p>
+  <br />
+  <p>Female Faces per Hour: @Model.FemaleFacesPerHourCount</p>
+  <br />
+  <p>Male Faces per Hour: @Model.MaleFacesPerHourCount</p>
+  <br />
+  <br />
+  <ul>
+    @foreach (var faceResult in Model.FaceRecognitionResults)
+    {
+      <li>
+        <div>
+          <div margin="0,5">
+            <img src=@faceResult.SourceImageUrl height="120" alt="face_image" />
+            <br />
+          </div>
+          @if (@faceResult.TotalFaceCount == 0)
+          {
+            <p>No faces recognized in image</p>
+          }
+          else
+          {
+            <p>
+              #@(faceResult.TotalFaceCount) faces recognized in image:
+              <br />
+              Females: @faceResult.FemaleFaceCount
+              <br />
+              Males: @faceResult.MaleFaceCount
+            </p>
+          }
+        </div>
+      </li>
+    }
+  </ul>
+</div>

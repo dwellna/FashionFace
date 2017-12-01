@@ -1,0 +1,9 @@
+C:\Users\MusicMonkey\Desktop\Projects\FashionFace.ListenerService\bin\Release\netcoreapp2.0\FashionFace.ListenerService.deps.json
+C:\Users\MusicMonkey\Desktop\Projects\FashionFace.ListenerService\bin\Release\netcoreapp2.0\FashionFace.ListenerService.dll
+C:\Users\MusicMonkey\Desktop\Projects\FashionFace.ListenerService\bin\Release\netcoreapp2.0\FashionFace.ListenerService.pdb
+C:\Users\MusicMonkey\Desktop\Projects\FashionFace.ListenerService\obj\Release\netcoreapp2.0\FashionFace.ListenerService.csprojResolveAssemblyReference.cache
+C:\Users\MusicMonkey\Desktop\Projects\FashionFace.ListenerService\obj\Release\netcoreapp2.0\FashionFace.ListenerService.csproj.CoreCompileInputs.cache
+C:\Users\MusicMonkey\Desktop\Projects\FashionFace.ListenerService\obj\Release\netcoreapp2.0\FashionFace.ListenerService.AssemblyInfoInputs.cache
+C:\Users\MusicMonkey\Desktop\Projects\FashionFace.ListenerService\obj\Release\netcoreapp2.0\FashionFace.ListenerService.AssemblyInfo.cs
+C:\Users\MusicMonkey\Desktop\Projects\FashionFace.ListenerService\obj\Release\netcoreapp2.0\FashionFace.ListenerService.dll
+C:\Users\MusicMonkey\Desktop\Projects\FashionFace.ListenerService\obj\Release\netcoreapp2.0\FashionFace.ListenerService.pdb
